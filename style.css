@@ -8,5 +8,11 @@ h1 {
   color: rgb(100,240,160)
 }
 .rosso {
-  color: #hsla(360, 100%, 100%, 0.5);
+  color: hsla(360, 100%, 100%, 0.5);
+}
+.blu {
+  color: rgb(0,0,255)
+}
+.verde {
+  color: rgb(0,255,0)
 }
