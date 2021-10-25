@@ -7,3 +7,6 @@ body {
 h1 {
   color: rgb(100,240,160)
 }
+.rosso {
+  color: #hsla(360, 100%, 100%, 0.5);
+}
